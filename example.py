@@ -17,7 +17,6 @@ result = some_function_that_takes_arguments(
     "e",
     "f",
 )
-
 my_list = [
     1,
     2,
@@ -26,5 +25,4 @@ my_list = [
     5,
     6,
 ]
-
 x = {"a": 37, "b": 42, "c": 927}
